@@ -1,4 +1,7 @@
 {
+    "scripts": {
+	"start" : "gulp"
+	}
     "title": "Creative",
     "name": "startbootstrap-creative",
     "version": "5.0.2",
