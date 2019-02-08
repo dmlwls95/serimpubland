@@ -1,6 +1,7 @@
 {
     "scripts": {
-	"start" : "gulp"
+        "start" : "node app",
+        "postinstall": "gulp default"
 	},
     "title": "Creative",
     "name": "startbootstrap-creative",
