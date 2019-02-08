@@ -12,7 +12,7 @@
     @include sans-serif-font;
     &:focus,
     &:hover {
-      color: darken($primary, .1);
+      color: darken($gray-900, .1);
     }
   }
   .navbar-nav {
@@ -60,7 +60,7 @@
       border-bottom: 1px solid fade-out($gray-900, .9);
       background-color: $white;
       .navbar-brand {
-        color: $primary;
+        color: $gray-900;
         &:focus,
         &:hover {
           color: darken($primary, .1);

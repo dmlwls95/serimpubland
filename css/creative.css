@@ -25,13 +25,13 @@ hr.light {
 }
 
 a {
-  color: #F05F40;
+  color: #fff;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #f05f40;
+  color: white;
 }
 
 h1,
@@ -107,7 +107,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #f05f40;
+  color: #212529;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -161,7 +161,7 @@ img::-moz-selection {
     background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #F05F40;
+    color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
     color: #f05f40;
